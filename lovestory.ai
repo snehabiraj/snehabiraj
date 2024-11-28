@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Our Love Story</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <div class="banner">
+            <h1>Our Story, One Memory at a Time</h1>
+            <p>Welcome to our world of memories and love letters.</p>
+        </div>
+        <nav>
+            <ul>
+                <li><a href="#home">Home</a></li>
+                <li><a href="#memories">Memories</a></li>
+                <li><a href="#love-letters">Love Letters</a></li>
+                <li><a href="#gallery">Gallery</a></li>
+                <li><a href="#special-moments">Special Moments</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section id="home">
+            <h2>Welcome to Our Love Story</h2>
+            <p>This website is dedicated to cherishing the moments we've shared together.</p>
+        </section>
+
+        <section id="memories">
+            <h2>Memories</h2>
+            <div class="timeline">
+                <div class="memory">
+                    <h3>First Meeting</h3>
+                    <p>The day our story began...</p>
+                </div>
+                <div class="memory">
+                    <h3>First Trip</h3>
+                    <p>Exploring the world together.</p>
+                </div>
+            </div>
+        </section>
+
+        <section id="love-letters">
+            <h2>Love Letters</h2>
+            <p>Here are some of the heartfelt letters we've shared:</p>
+            <ul>
+                <li><a href="#">Letter 1: The Beginning</a></li>
+                <li><a href="#">Letter 2: A Special Moment</a></li>
+            </ul>
+        </section>
+
+        <section id="gallery">
+            <h2>Gallery</h2>
+            <div class="photo-gallery">
+                <img src="photo1.jpg" alt="Memory 1">
+                <img src="photo2.jpg" alt="Memory 2">
+            </div>
+        </section>
+
+        <section id="special-moments">
+            <h2>Special Moments</h2>
+            <p>Playlists, quotes, and more memories to treasure.</p>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2024 Our Love Story. All Rights Reserved.</p>
+    </footer>
+</body>
+</html>
